@@ -3,6 +3,7 @@
 Uma experiência literária interativa desenvolvida com **React + Vite**, criada para transformar a escolha da próxima leitura em algo mágico, cinematográfico e divertido.
 
 O projeto funciona como um verdadeiro **oráculo literário**: o usuário escolhe um gênero, ativa o sorteio e acompanha uma roleta animada de capas até que um livro seja revelado como sua próxima leitura.
+Confira no site: https://oraculodoslivros.netlify.app/
 
 Toda a aplicação foi desenvolvida com foco em:
 - experiência visual;
